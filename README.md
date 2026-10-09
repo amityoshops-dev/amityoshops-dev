@@ -59,5 +59,5 @@ A multi-provider chat app that discovers available models and routes prompts by 
 
 ## Contact
 
-- **Writing:** [Intent Curiosity Sphere](https://substack.com)
-- **LinkedIn:** [Connect with me](https://linkedin.com)
+- **Writing:** [Intent Curiosity Sphere](https://intentcuriositysphere.substack.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/amit-mankar-5)
